@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=MOHIT%20PARKASH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Android%20%26%20Game%20Developer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/imohitparkash/imohitparkash/main/banner.png" width="100%"/>
 
 <a href="https://github.com/imohitparkash">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent%2C+user-centric+systems;AI%2FML+%7C+Android+%7C+Unity+Game+Dev;Rule-Based+Inference+%E2%86%92+Generative+AI;Open+to+Internships+%26+Collaborations&font=Fira+Code&center=true&width=650&height=50&color=b19cd9&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
@@ -355,11 +355,10 @@ Built and shipped multiple end-to-end projects spanning Android development, gam
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imohitparkash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a044ff&icon_color=6a3093&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=imohitparkash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a044ff&icon_color=6a3093&text_color=c9c9c9" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=imohitparkash&theme=dark&hide_border=true&background=0d1117&ring=a044ff&fire=6a3093&currStreakLabel=a044ff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohitparkash&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a044ff&text_color=c9c9c9" width="48%" />
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imohitparkash&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=a044ff&text_color=c9c9c9" width="48%" />
 </div>
 
 ---

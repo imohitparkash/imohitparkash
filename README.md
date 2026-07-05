@@ -56,51 +56,24 @@
 
 ---
 
-## 👋 About Me
+# 💫 About Me:
 
-I'm a Computer Science undergraduate at **Bahra University, Shimla**, specialising in **AI/ML**, currently in my B.Tech (2023 – 2027). My work spans **rule-based inference systems**, **Android application development**, **Unity game development**, and hands-on exploration of **Generative AI and LLMs**.
+🔭 I'm currently working on: **SolarScope**, a real-time Solar System dashboard built with Python, FastAPI, and Astropy  
+👯 I'm looking to collaborate on: rule-based AI systems, ML classification experiments, and Android app projects  
+🌱 I'm currently learning: Java (deepening my fundamentals through coursework), and continuing to explore AI/ML  
+💬 Ask me about: AI-assisted product design, Python backend development, or game dev in Unity  
+⚡ Fun fact: I write Punjabi poetry in my downtime
 
-I approach engineering with a product mindset — every project I build starts from a real, explainable use case rather than a demo. Whether it's an offline career-guidance engine or a physics-driven 2D game, I focus on clean architecture, transparent logic, and shipping something that actually works end-to-end.
+## 💻 Tech Stack:
 
-**🎯 Open To:**
-- Software Engineering Internships
-- AI/ML Research & Applied ML Roles
-- Android Development Collaborations
-- Open Source Contributions
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-![C%23](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-
-
-![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
 
 

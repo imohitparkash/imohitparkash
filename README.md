@@ -8,19 +8,9 @@
 
 <br/>
 
-
-
 ![Academic](https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-6a3093?style=flat-square&labelColor=1a1a2e)
-
-
 ![University](https://img.shields.io/badge/Bahra%20University-Shimla-6a3093?style=flat-square&labelColor=1a1a2e)
-
-
-
-
 ![Location](https://img.shields.io/badge/📍-Shimla,%20Himachal%20Pradesh-6a3093?style=flat-square&labelColor=1a1a2e)
-
-
 
 <br/>
 
@@ -36,21 +26,9 @@
 
 <br/><br/>
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=imohitparkash&label=Profile%20Views&color=6a3093&style=flat-square)
-
-
-
-
 ![Followers](https://img.shields.io/github/followers/imohitparkash?label=Followers&style=flat-square&color=6a3093&labelColor=1a1a2e)
-
-
-
-
 ![Stars](https://img.shields.io/github/stars/imohitparkash?label=Stars&style=flat-square&color=6a3093&labelColor=1a1a2e)
-
-
 
 </div>
 
@@ -66,109 +44,45 @@
 
 ## 💻 Tech Stack:
 
+**Core — used in shipped projects**
+
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-
-
-**AI / ML**
-
-
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-
-
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-
+**Currently learning — coursework, not yet shipped**
 
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
-
-
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-
-**Mobile & Game Dev**
-
-
-![Android](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-
-
-
-![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-
-
-
-![XML](https://img.shields.io/badge/xml-0060AC?style=for-the-badge&logo=xml&logoColor=white)
-
-
-
-
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & Platforms**
 
-
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
 ![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-
-
 ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-
-
 
 <div align="center">
 
-
-
-![Skill Icons](https://skillicons.dev/icons?i=python,java,cs,cpp,r,mysql,androidstudio,unity,git,github,tensorflow,jupyter&theme=dark)
-
-
+![Skill Icons](https://skillicons.dev/icons?i=python,java,cs,androidstudio,unity,git,github,tensorflow,jupyter&theme=dark)
 
 </div>
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🧠 What I Work With
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Rule-Based Inference Systems** | ●●●●○ | Weighted scoring & decision logic for explainable recommendations (Gradient) |
-| **Generative AI & LLMs** | ●●●○○ | Prompt engineering, LLM fundamentals, real-world application design (GFG coursework) |
-| **Classical ML Toolkit** | ●●●○○ | NumPy, Pandas, scikit-learn for data handling & modeling |
-| **Deep Learning Foundations** | ●●○○○ | TensorFlow Lite, completed GFG TensorFlow course |
-| **Data Analysis & Scripting** | ●●●●○ | Python, R, Jupyter Notebook workflows |
+| Area | What I've actually built |
+|---|---|
+| **Rule-Based Inference Systems** | Weighted scoring & decision logic for explainable recommendations — shipped in Gradient |
+| **Backend / Scientific Computing** | Python + FastAPI + Astropy real-time dashboard — shipped in SolarScope |
+| **Game Development** | Physics, procedural generation, and state management in Unity/C# — shipped in flappy-bird |
+| **Generative AI & LLMs** | Prompt engineering and LLM fundamentals — coursework (GFG), not yet in a shipped project |
+| **Deep Learning** | Completed a TensorFlow course — foundational level, actively building toward applied work |
 
 ---
 
@@ -287,40 +201,20 @@ Built and shipped multiple end-to-end projects spanning Android development, gam
 
 **GeeksforGeeks**
 
-
-
 ![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20ChatGPT-2025-6a3093?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-
-
-
 ![TensorFlow](https://img.shields.io/badge/Complete%20TensorFlow%20Course-2024-6a3093?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-
 
 **Game Development**
 
-
-
 ![Unity](https://img.shields.io/badge/Unity%202D%20%26%20C%23%20for%20Beginners-2023-6a3093?style=for-the-badge&logo=unity&logoColor=white)
-
-
 
 **Creative Tools**
 
-
-
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve%2018%20Tutorial-2024-6a3093?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-
-
 
 **General**
 
-
-
 ![Assistant Computer Operator](https://img.shields.io/badge/Assistant%20Computer%20Operator-Certificate-6a3093?style=for-the-badge)
-
-
 
 ---
 
@@ -335,7 +229,6 @@ Built and shipped multiple end-to-end projects spanning Android development, gam
 </div>
 
 ---
-
 
 ## 📈 Contribution Activity
 
@@ -376,3 +269,4 @@ Exploring:
 Open To:
   - Internships in Software Engineering / AI-ML
   - Collaborations on Android or ML classification projects
+```

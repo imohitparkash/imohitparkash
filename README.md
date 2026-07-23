@@ -254,19 +254,12 @@ Built and shipped multiple end-to-end projects spanning Android development, gam
 
 ```yaml
 Learning:
-  - Android Development (Java/Kotlin)
-  - Unity 2D Game Development
-  - Deep Learning & Applied AI/ML
+  - Java (deepening fundamentals through coursework)
+  - Applied AI/ML
 
 Building:
-  - Muzigo — Java-based Android music player
-  - A 2D game in Unity
-
-Exploring:
-  - AI-assisted product design
-  - Rule-based to LLM-powered system architectures
+  - SolarScope — real-time Solar System dashboard (Python, FastAPI, Astropy)
 
 Open To:
   - Internships in Software Engineering / AI-ML
   - Collaborations on Android or ML classification projects
-```

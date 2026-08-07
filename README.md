@@ -86,85 +86,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Pinned Repositories
 
-<details>
-<summary><b>🎯 Gradient — Offline AI Career Guidance App</b></summary>
-<br/>
+<div align="center">
 
-Fully offline Android application that recommends career clusters using normalised academic inputs and a weighted rule-based inference engine. Designed for transparent, explainable output with zero internet dependency — every recommendation can be traced back to its scoring logic.
+[
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Java · Android Studio · Rule-Based Inference Engine |
-| **Scale** | Full SDLC — requirements through delivery |
-| **Performance** | Fully offline, zero network dependency |
-| **Security** | No external data transmission — all inference local |
-| **Impact** | Explainable, transparent career recommendations for students |
-| **Repository** | [github.com/imohitparkash/Gradient](https://github.com/imohitparkash/Gradient) |
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imohitparkash&repo=Gradient&theme=dark&bg_color=0d1117&title_color=a044ff&icon_color=6a3093&text_color=c9c9c9)
 
-Managed end-to-end — including DFD documentation, formal project reporting, and presentation delivery.
+](https://github.com/imohitparkash/Gradient)
+[
 
-</details>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imohitparkash&repo=SolarScope&theme=dark&bg_color=0d1117&title_color=a044ff&icon_color=6a3093&text_color=c9c9c9)
 
-<details>
-<summary><b>☀️ SolarScope — Real-Time Solar System Dashboard</b></summary>
-<br/>
+](https://github.com/imohitparkash/SolarScope)
 
-Live-computed Earth-Sun distance dashboard built with Python, FastAPI, and Astropy, turning orbital mechanics calculations into a real-time, browser-viewable interface.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · FastAPI · Astropy · HTML |
-| **Scale** | Single-service real-time computation dashboard |
-| **Performance** | Live astronomical calculations on request |
-| **Security** | N/A — read-only public astronomical data |
-| **Impact** | Accessible, real-time astronomy visualization tool |
-| **Repository** | [github.com/imohitparkash/SolarScope](https://github.com/imohitparkash/SolarScope) |
-
-Combines scientific computing with lightweight backend architecture to make orbital data instantly explorable.
-
-</details>
-
-<details>
-<summary><b>🤖 ML Notebooks — Generative AI & ChatGPT</b></summary>
-<br/>
-
-A hands-on notebook collection built while completing the GeeksforGeeks Generative AI & ChatGPT course — covering LLM fundamentals, prompt engineering, and applied AI use cases.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Jupyter Notebook · LLMs · Prompt Engineering |
-| **Scale** | Multi-notebook coursework collection |
-| **Performance** | N/A — educational/exploratory notebooks |
-| **Security** | N/A |
-| **Impact** | Working foundation for building AI-powered systems |
-| **Repository** | [github.com/imohitparkash/ml-notebooks](https://github.com/imohitparkash/ml-notebooks) |
-
-Explored real-world LLM use cases as a foundation for more advanced Generative AI application development.
-
-</details>
-
-<details>
-<summary><b>🐦 Flappy Bird Clone — Unity 2D Game</b></summary>
-<br/>
-
-A Unity 2D recreation of Flappy Bird featuring physics-based movement, procedural pipe generation, and collision detection, built with object-oriented C#.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Unity 2D · C# |
-| **Scale** | Single-player 2D game, full game loop |
-| **Performance** | Physics-based real-time gameplay |
-| **Security** | N/A |
-| **Impact** | Complete score system and game-over logic via OOP design |
-| **Repository** | [github.com/imohitparkash/flappy-bird](https://github.com/imohitparkash/flappy-bird) |
-
-Demonstrates core game-dev fundamentals: physics interaction, procedural generation, and state management.
-
-</details>
-
----
+</div>
 
 ## 💼 Experience
 

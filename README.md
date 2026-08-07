@@ -86,20 +86,28 @@
 
 ---
 
-## 📌 Pinned Repositories
-
+## 📌 Featured Repositories
 <div align="center">
 
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imohitparkash&repo=Gradient&theme=dark&bg_color=0d1117&title_color=a044ff&icon_color=6a3093&text_color=c9c9c9)
-
-](https://github.com/imohitparkash/Gradient)
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imohitparkash&repo=SolarScope&theme=dark&bg_color=0d1117&title_color=a044ff&icon_color=6a3093&text_color=c9c9c9)
-
-](https://github.com/imohitparkash/SolarScope)
+<table>
+  <tr>
+    <td width="33%">
+      <h3><a href="https://github.com/imohitparkash/Gradient">Gradient</a></h3>
+      <p>Rule-based AI career guidance Android app.</p>
+      <sub>Java · Android</sub>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/imohitparkash/multi-agent-debate">multi-agent-debate</a></h3>
+      <p>Multi-agent LLM debate system — free, cloud-based reimplementation.</p>
+      <sub>Python · Groq API</sub>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/imohitparkash/RotoAuth">RotoAuth</a></h3>
+      <p>TOTP/2FA built from raw HMAC-SHA1, no crypto libraries.</p>
+      <sub>Python · FastAPI</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 

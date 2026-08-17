@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/mohit-parkash">
+<a href="https://www.linkedin.com/in/imohitparkash/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="mailto:imohitparkash1@gmail.com">

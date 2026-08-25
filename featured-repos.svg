@@ -71,7 +71,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imohitparkash/multi-agent-debate</span>
-                                        <span>created 29 days ago</span>
+                                        <span>created Jul 25 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free reimplementation of Du et al.'s multi-agent debate paper (ICML 2024) — LLM agents critique each other's reasoning to converge on better answers.</div>
@@ -118,7 +118,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imohitparkash/RotoAuth</span>
-                                        <span>created 18 days ago</span>
+                                        <span>created 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A working TOTP/2FA system built from raw HMAC-SHA1 — no libraries doing the crypto for you. FastAPI backend, live rotating-code frontend.</div>

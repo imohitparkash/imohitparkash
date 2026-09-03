@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/imohitparkash/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="mailto:imohitparkash1@gmail.com">
+<a href="mailto:altairofficial518@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-a044ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="https://github.com/imohitparkash">

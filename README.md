@@ -174,16 +174,17 @@ Built and shipped multiple end-to-end projects spanning Android development, gam
 </div>
 
 ---
+<!--
+## 📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imohitparkash&theme=react-dark&bg_color=0d1117&color=a044ff&line=6a3093&point=ffffff&hide_border=true" width="100%" />
+</div> 
+-->
 
 ## 📈 Contribution Activity
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imohitparkash&theme=react-dark&bg_color=0d1117&color=a044ff&line=6a3093&point=ffffff&hide_border=true" width="100%" />
-
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=imohitparkash&theme=react-dark&bg_color=0d1117&color=a044ff&line=6a3093&point=ffffff&hide_border=true" width="100%" />
 </div>
-
----
 
 ## 🐍 Contribution Snake
 

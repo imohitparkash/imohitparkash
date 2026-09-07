@@ -34,12 +34,20 @@
 
 ---
 
-# 💫 About Me:
+## 🌟 About Me:
 
-🔭 I'm currently working on: **SolarScope**, a real-time Solar System dashboard built with Python, FastAPI, and Astropy  
-👯 I'm looking to collaborate on: rule-based AI systems, ML classification experiments, and Android app projects  
-🌱 I'm currently learning: Java (deepening my fundamentals through coursework), and continuing to explore AI/ML  
-💬 Ask me about: AI-assisted product design, Python backend development, or game dev in Unity  
+---
+
+🛰️ I'm currently working on: **SolarScope**, a real-time Solar System dashboard built with Python, FastAPI, and Astropy
+
+🎓 I'm also collaborating on: **Student Performance Predictor**, a rule-based academic performance estimation app built with Python and Flask
+
+🤝 I'm looking to collaborate on: rule-based AI systems, ML classification experiments, and Android app projects
+
+🌱 I'm currently learning: Java and Python — deepening my fundamentals through **GeeksforGeeks** courses, and continuing to explore AI/ML
+
+💬 Ask me about: AI-assisted product design, Python backend development, or game dev in Unity
+
 ⚡ Fun fact: I write Punjabi poetry in my downtime
 
 ## 💻 Tech Stack:
